@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and humble representation of Iohn Downes esq; touching the death of the late King, so far as he may be concerned therein..</title>
+            <author>Downes, John, fl. 1666.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21331</idno><idno type="EEBO-CITATION">99888413</idno>
+  <idno type="VID">201748</idno>
+  <idno type="EEBO-PROQUEST">2240899900</idno>
+  
+            <idno type="STC">Wing D2081</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[176]</idno>
+            <idno type="STC">ESTC R229713</idno>
+            <idno type="PROQUEST">ocm99888413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888413e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201748)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[176])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and humble representation of Iohn Downes esq; touching the death of the late King, so far as he may be concerned therein..</title>
+                  <author>Downes, John, fl. 1666.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>This item "...  cannot be said to err on the side of truth."--DNB.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Downes, John, fl. 1666 --  Early works to 1800.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Regicides --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201748:1"/>
+            <head>A True and Humble REPRESENTATION of <hi>Iohn Downes</hi> Esq touching the Death of the Late KING, so far as he may be concerned therein.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Inding my self involved by several Votes and Orders of this present <hi>Parliament,</hi> and also in the execution of the same, with those who plotted and designed the late <hi>Kings</hi> Death, and with others who were His Judges; I think my self bound in duty and thankfulness unto God, and by all obligations to my self, Family, Posterity, and Relations, to set forth a true Narrative of all things concerning my self, and all my actings in that sad business; and I shall not make Lies a refuge, because I have hope in the God of truth.</p>
+            <p>During that long time of fourteen years I served in the last <hi>Parliament,</hi> I was never of any Juncto or Cabal, indeed I did ever professedly decline it; I never knew of any business, (except perhaps by hear-say) relating to those sad distractions between the <hi>King</hi> and <hi>Parliament,</hi> until they came to be opened in the House; I never knew of the intention of bringing the <hi>King</hi> to <hi>Westminster,</hi> till he was brought, much less did I know that the end of His bringing was to take away his life; I never knew of that intention, (except what my own fears might suggest unto me) until the Bill was brought into the House to Erect an <hi>High Court of Justice</hi> (as it was called) for His Tryal; and therefore I was much perplexed and astonished when it was read; when the Bill was committed, I was not of the Committee, (though it was numerous) nor was I ever at that Committee, (though it sate very publickly in the <hi>Speakers</hi> Lodgings:) when the Committee had order to bring in Names for Judges, my Name was not put in till after the Amendments were reported, and upon a second Commitment; and then upon an unhappy occasion, passing through the <hi>Speakers</hi> Chambers, (when the Committee was not sitting) I saw two or three Members (whose Names I well remember) were in consultation at the Table, and as I passed by them, one of them said, this Gentlemans Name is not inserted, and called to me and said, Sir, you must make one in this great business; I flatly gave my denyal, and said, I could not serve them in it; it was replyed, that with my good favour I must take my share: after the Bill was passed, and the Judges summoned to meet in the Painted Cham<g ref="char:EOLhyphen"/>ber, by express Order of the House all were injoyned to attend: And thus through weakness and fear I was insnared.</p>
+            <p>I shall forbear to mention many passages betwixt my self and other Members, at several times when I met with them, (because I fear to be over tedious) though they would much make for my clearing; and therefore I do now humbly come to relate my own demeanour the last day the <hi>King</hi> appeared at the Court.</p>
+            <p>When the Court was sate, and the <hi>King</hi> brought, the President told him, that he had been charged with Treason, Perjury, Murther, and other high Crimes committed against the People of this Nation, and that he had refused to give an answer to the Charge, demurring to the Jurisdiction of the Court; That he had been told the Court was satisfied of their own Jurisdiction, and that He was not to be the Judge of it; and that He had had several dayes given him for consideration; and that this was the last day the Court would demand of Him, whether He would answer to the Charge or not; if not, the Court would take the whole Charge, <hi>Pro Confesso,</hi> and would proceed to Judgment; (or words to this effect.) The <hi>King</hi> (with such undaunted composedness and wisdom, as I never beheld in man) made answer to this effect; That He could not acknowledge the Jurisdiction of the Court, He acknowledged they had power enough indeed, but where is your authority? yet said He, because I see you are ready to give a Sentence, and that such a Sentence may sooner be repented of, than revoked; and that the peace of the Nation may so much depend upon it. I think sit to let you know, that I desire to speak with my <hi>Parliament,</hi> for I have something to offer unto them which will be satisfactory <hi>[to you all]</hi> and will be for the present Settlement of the Nation. The President regarded not these gracious expressions, but told Him, he could take no notice of any thing He said, save only to demand once again, whether He would answer to His Charge or not.</p>
+            <p>Then the <hi>King</hi> (not in passion) but with the greatest earnestness of affection, desired the Court, that they would once more consider of it; for said He, you may live to repent of such a Sentence; and therefore desired they would withdraw but for half an hour; or said He, if that be too much trouble for you, I will withdraw, (and passionately moved his body.)</p>
+            <p>The President was not affected with all this, but commanded the Clerk to read the Sentence; God knows I lie not, my heart was ready to burst within me; and as it fell out, sitting on the seat next to <hi>Crumwel,</hi> he perceived some discomposure in me, and turned to me and said, What ailes thee, art thou mad, canst thou not sit still and bequiet? I answered, quiet? no sir, I cannot be quiet; and then I presently stood up, and with an audible voyce said, My Lord President, I am not satisfied to give my consent to this Sentence, but have reasons to offer to you against it; and therefore I desire the Court may adjourn to hear me. Then the President stood up and said, nay, if any Member of the Court be unsatisfied, then the Court must adjourn, and accordingly did adjourn into the inner Court of Wards.</p>
+            <p>When the Court was sate there, (all but Members, and some Officers being turned out) I was called by <hi>Crumwel</hi> to give an Account why I had put this trouble and disturbance upon the Court? I answered, (and so near as possibly I can, after so great an clapse of time, I will set down my very Syllabical expressions:) My Lord Pre<g ref="char:EOLhyphen"/>sident, I should have been very glad, that his Majesty would have condescended to these expressions long before this time; I say, I should have been glad of it, both for His own sake and for ours; But sir, to me they are not too late, but welcome now, for sir, God knows I desire not the <hi>Kings</hi> death, but His life; all that I thirst after, is the Settlement of the Nation in peace; His Majesty now doth offer it, and in order to it desires to speak with His <hi>Parliament;</hi> should you give Sentence of Death upon Him, before you have acquainted the <hi>Parliament</hi> with His offers, in my humble opinion, your case will be much altered, and you will do the greatest Action upon the greatest disadvantage imaginable, and I know not how ever you will be able to answer it.</p>
+            <p>
+               <hi>Crumwel</hi> in some scornful wrath stood up and answered me, (so near as I can remember in these words) My Lord President, you see what weighty Reasons this Gentle<g ref="char:EOLhyphen"/>man hath produced, that should move him to put this trouble upon you; surely this Gentleman doth not know, he hath to deal with the hardest hearted man upon the earth; however sir, it is not the single opinion of one peevish tenacious man, that must sway the Court, nor deter them from their duty in so great a business; and I wish his Conscience doth not tell him (what ever he pretends of dissatisfaction) that he only would save his old Master; Therefore sir, I pray you lose no more time, but return to the Court and do your duty.</p>
+            <p>Not one soul would second me nor speak one word, yet I knew divers by name; Sir <hi>John Bourcher,</hi> Mr. <hi>Dixwel,</hi> Mr. <hi>Love,</hi> Mr. <hi>Waite,</hi> and some others were much unsatisfied, yet durst not speak; But on the contrary divers Members took their turns with me in private discourse; <hi>Crumwel</hi> himself whispered me in the ear, and said, by this and Mr. <hi>Fries</hi> business he was satisfied. I aimed at nothing but making a mutiny in the Army, and cutting of throats; Another told me the Gene<g ref="char:EOLhyphen"/>rations to come would have cause to curse my actings; and another (which sunk deepest of all) told me, that if I were in my wits I would never have done this, see<g ref="char:EOLhyphen"/>ing I was before (as indeed I was) acquainted, that the <hi>King</hi> to save his life, would make these offers, but it would be as much as my life were worth to make any di<g ref="char:EOLhyphen"/>sturbance; And besides said he, it is not in the power of man, no of this <hi>Parliament</hi> to save his life, for the whole Army are resolved, that if there be but any check or demur in giving judgment, they will immediately fall upon him and hew him to peices, and the House it self will not be out of danger.</p>
+            <p>To those whose height would permit me to speak and make replies, I told them, to me it was evident, the <hi>Parliament</hi> expected some such offers from the <hi>King,</hi> why else did they make that order, (that upon any emergency which could not be thought of, that the Court should immediately acquaint the House therewith: and there was such an order entred and to be seen in the Books, if he (who in appearance) ordered all matters, hath not torn that order out, as I have heard he hath done all the rest of the proceedings; and inferred, what greater emergencies could be, than that the <hi>King</hi> demurred to the Jurisdiction of the Court, and yet desired to speak with the <hi>Parliament,</hi> and offered to do that which would be satisfaction to all, especially seeing (as was pretended) that his denying to do such things, was the ground which forc'd such a proceeding with him. And so without any more debate they returned to the Court, and I left them, and went into the Speakers Chamber, and there with tears eased my heart. The effect and substance of this narration is true, and so neer as I can remember the very words and circumstances, and it was so noto<g ref="char:EOLhyphen"/>rious and publick, that I hope God will stirr up some worthy persons (though I have been careless not doing the same in design) to attest the truth of the chief parts hereof; but for any thing else relating to that business, I utterly deny and protest against it, nor did I ever give them one meeting more, but wholly from that time deserted them, though I was often Summoned to meet them in the <hi>Painted-Chamber;</hi> and I hope persons of so great wisdome and goodness, will suffer compassions to rise within them, and will look back unto those times wherein it was criminal for a man but to whisper a word of respect to His Majesty; and my very subsistance was by an Office upon which I had laid out almost my whole Estate: And as this relation shews I am but a weak imprudent man, yet I did what I could, I did my best, I could do no more: I was single, I was alone, only I ought not to have been there at all; I acknowledge my self to have highly offended and need pardon, and do humbly and professedly lay hold on His sacred Majesties gratious pardon; and humbly implore the high and honourable <hi>Parliaments</hi> Pardon also. I did not only forbear, but ab<g ref="char:EOLhyphen"/>horred to buy one penniworth of the <hi>Kings</hi> Goods, or one foot of His Lands, though it's known I had as much or more opportunity than any other man, and per<g ref="char:EOLhyphen"/>haps more temptations <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have allured me than most other men had; I have neither taken advantage nor grown rich, nor have had remuneration or allowances for a<g ref="char:EOLhyphen"/>ny <hi>Parliamentory</hi> services or imployments, as many others had, though it is well known what burthens have been laid upon me: the truth of this will be found, when Books and Treasuries shall be searched into; I may truly say, I have wore out my self, lost my Office, robbed my relations, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow am ruined; and my Estate when searched into, will not be found as perhaps may be supposed; I have a poor Wife big with child, and eight children besides, and most of them very small, who already are forc'd to live upon charity, all my Estate being siezed on; I was the only Member in the House that was prevailed with, to deliver Mr. <hi>Loves</hi> Wifes Petition for sa<g ref="char:EOLhyphen"/>ving of his life, and so managedit, that the House devided upon the question, and lost it but by three voyces; &amp; I did not a little contribute to the saving of the lives of Mr. <hi>Jackson,</hi> and Mr. <hi>Jenkins,</hi> Ministers, who were in Mr. <hi>Loves</hi> condition; I have not been cruel to any, I hope God will incline the hearts of His sacred Majesty, and the High Court of <hi>Parliament,</hi> to be merciful to me and mine.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
